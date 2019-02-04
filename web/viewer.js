@@ -5077,7 +5077,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'compressed.tracemonkey-pldi-09.pdf',
+    value: 'tiffany_shi.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
